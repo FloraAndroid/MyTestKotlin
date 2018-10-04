@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Test Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_text">Update history</string>
+    <string name="input_text_hint">Text to add</string>
+    <string name="new_text">Empty log</string>
+
+    <string name="coffee_price">Coffee: $%.1f</string>
+    <string name="total_price">Total price: $%.1f</string>
+    <string name="increment_label">+</string>
+    <string name="decrement_label">-</string>
+    <string name="default_coffee_count">0</string>
+</resources>
